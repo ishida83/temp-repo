@@ -1,6 +1,6 @@
 {
   "name": "nextui-temp-form",
-  "version": "0.0.1-rc.0",
+  "version": "0.1.0-0",
   "description": "Module for base form elements",
   "main": "build/index.js",
   "directories": {

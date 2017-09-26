@@ -1,6 +1,6 @@
 {
   "name": "nextui-temp-dropdown",
-  "version": "0.0.1-rc.0",
+  "version": "0.1.0-0",
   "description": "Module for Multiselect and single select dropdowns",
   "main": "build/index.js",
   "directories": {

@@ -1,6 +1,6 @@
 {
   "name": "nextui-temp-button",
-  "version": "0.0.1-rc.0",
+  "version": "0.1.0-0",
   "description": "",
   "main": "build/index.js",
   "directories": {
@@ -29,13 +29,13 @@
     "eslint-watch": "^3.1.2"
   },
   "dependencies": {
-    "joe-temp-alpha": "^0.0.1-rc.0",
+    "joe-temp-alpha": "^0.1.0-0",
+    "nextui-temp-styles": "^0.1.0-0",
     "polished": "^1.7.0",
     "prop-types": "^15.6.0",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
-    "styled-components": "^2.1.2",
-    "nextui-temp-styles":"^0.0.1-rc.0"
+    "styled-components": "^2.1.2"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"

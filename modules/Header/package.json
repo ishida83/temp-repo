@@ -1,6 +1,6 @@
 {
   "name": "nextui-temp-header",
-  "version": "0.0.1-rc.0",
+  "version": "0.1.0-0",
   "description": "Header module",
   "main": "build/index.js",
   "directories": {
