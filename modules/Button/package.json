@@ -1,6 +1,6 @@
 {
   "name": "nextui-temp-button",
-  "version": "0.1.0-0",
+  "version": "0.1.0",
   "description": "",
   "main": "build/index.js",
   "directories": {
@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "joe-temp-alpha": "^0.1.0-0",
-    "nextui-temp-styles": "^0.1.0-0",
+    "nextui-temp-styles": "^0.1.0",
     "polished": "^1.7.0",
     "prop-types": "^15.6.0",
     "react": "^15.6.2",
